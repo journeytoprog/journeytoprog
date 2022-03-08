@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @journeytoprog
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning CS50x at edX, Harvard.
-- 💞️ I’m looking to collaborate on projects that will help me grow.
+- 🌱 I’m currently learning CS50x at edX, Harvard
+- 💞️ I’m looking to collaborate on projects that will help me grow
 - 📫 How to reach me mdsnmasters@gmail.com
 
 <!---
